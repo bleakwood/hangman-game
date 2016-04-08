@@ -22,8 +22,11 @@ How you will be scored
 80 words will be randomly selected from the words list, with:
 
 20 words: length <= 5 letters
+
 20 words : length <= 8 letters
+
 20 words : length <= 12 letters
+
 20 words : length > 12 letters
 
 And your program will be run againt 10 sets of such words, with the score being the average number of words it guessed with **5 attempts** (if you get the letter right with one guess, it does not count toward the attempts). You can only guess ONE letter with each attempt.
