@@ -4,6 +4,10 @@ Introduction
 This test is based on the famous [Hangman Game](http://en.wikipedia.org/wiki/Hangman_(game)).
 Your task is to write a program to play Hangman, guessing words from a list of English Words.
 
+### Requirements
+
+* You can use ANY programming language to solve this problem, and ANY libraries relevant for this task. Use libraries to save dev time and improve your score.
+
 ### Our Expectations
 
 Through this programming test, you should be able to demonstrate:
